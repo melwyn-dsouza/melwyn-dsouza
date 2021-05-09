@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @melwyn-dsouza
-- 👀 I’m interested in machine learning, ython, data science, software engineering, artificial intelligence, mathematics, statistics
+- 👀 I’m interested in machine learning, python, data science, software engineering, artificial intelligence, mathematics, statistics
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me? via email: melwyndsouza17@gmail.com or Phone: +353 0830694367
 
