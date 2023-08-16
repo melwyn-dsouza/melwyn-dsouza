@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melwyn-dsouza
-- 👀 I’m interested in machine learning, data science, artificial intelligence, mathematics, statistics
-- 🌱 I’m currently pursuing AI and ML from MTU, Ireland
+- 👀 I’m interested in machine learning and artificial intelligence
+- 🌱 Masters degree in AI ML and Electronics
 - 📫 How to reach me? via email: melwyndsouza17@gmail.com or Phone: +353 0830694367
 
 <!---
