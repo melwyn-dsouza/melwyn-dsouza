@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @melwyn-dsouza
-- 👀 I’m interested in machine learning and artificial intelligence
-- 🌱 Masters degree in AI ML and Electronics
-- 📫 How to reach me? via email: melwyndsouza17@gmail.com or Phone: +353 0830694367
+- 👀 I’m interested in ai/ml, kernel, data intensive app design and arch
+- 📫 How to reach me? via email: melwyndsouza17@gmail.com 
 
 <!---
 melwyn-dsouza/melwyn-dsouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
